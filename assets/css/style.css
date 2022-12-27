@@ -11,7 +11,7 @@
 #af7b41 - SECONDARY
 --------------------------------------------------------------*/
 :root {
-  --green: #00933b;
+  --green: #328051;
   --green_soft: #00933bee;
   --gold: #af7b41;
 }
@@ -1588,7 +1588,8 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: var(--green);
+  /* background: var(--green_soft); */
+  background-color: #00933b;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
